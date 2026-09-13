@@ -1,8 +1,8 @@
 # 📊 BÁO CÁO THU HOẠCH NGHIỆM THU BÀI LAB 3 (BƯỚC 3 — SUBMISSION ARTIFACT)
 
-> **Họ và Tên Học viên:** [Đỗ Quang Vinh]  
-> **Mã Sinh Viên / Mã Học viên:** [2A202602989]  
-> **Chủ đề Lựa chọn:** [Trợ lý Học vụ & Tra cứu Lịch thi VinUni]  
+> **Họ và Tên Học viên:** Đỗ Quang Vinh
+> **Mã Sinh Viên / Mã Học viên:** 2A202602989
+> **Chủ đề Lựa chọn:** Trợ lý Học vụ & Tra cứu Lịch thi VinUni  
 
 ---
 
@@ -14,7 +14,7 @@
 | **2. Tool Interaction** | 5 / 5 | Cần gọi ít nhất 2 công cụ: tool tra cứu điểm/lịch thi (academic_query) và tool đặt lịch hẹn với cố vấn (booking_advisor) |
 | **3. Dynamic Decision** | 4 / 5 | Agent phải tự quyết định bước tiếp theo dựa trên kết quả tra cứu (ví dụ: nếu GPA thấp hơn ngưỡng thì đề xuất đặt lịch tư vấn, nếu không thì chỉ trả kết quả tra cứu) |
 | **4. Long Horizon Goal** | 3 / 5 | Mục tiêu xuyên suốt là hỗ trợ sinh viên hoàn tất cả tra cứu lẫn đặt lịch trong một phiên làm việc liên tục |
-| **TỔNG ĐIỂM AGENTIC FIT** | 16 / 20 | Vượt ngưỡng 12/20 → phù hợp triển khai Agentic System |
+| **TỔNG ĐIỂM AGENTIC FIT** | **16 / 20** | Vượt ngưỡng 12/20 → phù hợp triển khai Agentic System |
 
 ---
 
