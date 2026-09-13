@@ -1,8 +1,8 @@
 # 📊 BÁO CÁO THU HOẠCH NGHIỆM THU BÀI LAB 3 (BƯỚC 3 — SUBMISSION ARTIFACT)
 
-> **Họ và Tên Học viên:** [Điền Họ và Tên]  
-> **Mã Sinh Viên / Mã Học viên:** [Điền MSSV]  
-> **Chủ đề Lựa chọn:** [Điền tên chủ đề đã chọn từ docs/DANH_SACH_DE_TAI.md hoặc Đề tài Mở]  
+> **Họ và Tên Học viên:** [Đỗ Quang Vinh]  
+> **Mã Sinh Viên / Mã Học viên:** [2A202602989]  
+> **Chủ đề Lựa chọn:** [Trợ lý Học vụ & Tra cứu Lịch thi VinUni]  
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Tiêu chí Đánh giá | Mức độ (1 - 5) | Giải trình chi tiết lý do chọn điểm |
 | :--- | :---: | :--- |
-| **1. Multi-step Reasoning** | / 5 | Bài toán có yêu cầu chia nhỏ nhiều bước suy luận nối tiếp nhau không? |
-| **2. Tool Interaction** | / 5 | Hệ thống có cần kết nối với MCP Server / Cơ sở dữ liệu bên ngoài không? |
-| **3. Dynamic Decision** | / 5 | Bước tiếp theo có phụ thuộc vào kết quả quan sát bước trước không? |
-| **4. Long Horizon Goal** | / 5 | Hệ thống có phải giữ mục tiêu xuyên suốt qua nhiều lượt xử lý không? |
-| **TỔNG ĐIỂM AGENTIC FIT** | **/ 20** | *Nếu tổng điểm > 12/20: Bài toán rất phù hợp triển khai Agentic System.* |
+| **1. Multi-step Reasoning** | 4 / 5 | Agent cần thực hiện nhiều bước nối tiếp: tra cứu GPA → kiểm tra lịch thi → nếu sinh viên cần hỗ trợ thì đặt lịch tư vấn với cố vấn học vụ |
+| **2. Tool Interaction** | 5 / 5 | Cần gọi ít nhất 2 công cụ: tool tra cứu điểm/lịch thi (academic_query) và tool đặt lịch hẹn với cố vấn (booking_advisor) |
+| **3. Dynamic Decision** | 4 / 5 | Agent phải tự quyết định bước tiếp theo dựa trên kết quả tra cứu (ví dụ: nếu GPA thấp hơn ngưỡng thì đề xuất đặt lịch tư vấn, nếu không thì chỉ trả kết quả tra cứu) |
+| **4. Long Horizon Goal** | 3 / 5 | Mục tiêu xuyên suốt là hỗ trợ sinh viên hoàn tất cả tra cứu lẫn đặt lịch trong một phiên làm việc liên tục |
+| **TỔNG ĐIỂM AGENTIC FIT** | 16 / 20 | Vượt ngưỡng 12/20 → phù hợp triển khai Agentic System |
 
 ---
 
