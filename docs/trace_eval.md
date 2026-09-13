@@ -1,8 +1,8 @@
 # 📊 BÁO CÁO THU HOẠCH NGHIỆM THU BÀI LAB 3 (BƯỚC 3 — SUBMISSION ARTIFACT)
 
-> **Họ và Tên Học viên:** Đỗ Quang Vinh
-> **Mã Sinh Viên / Mã Học viên:** 2A202602989
-> **Chủ đề Lựa chọn:** Trợ lý Học vụ & Tra cứu Lịch thi VinUni  
+> **Họ và Tên Học viên:** Đỗ Quang Vinh            
+> **Mã Sinh Viên / Mã Học viên:** 2A202602989            
+> **Chủ đề Lựa chọn:** Trợ lý Học vụ & Tra cứu Lịch thi VinUni              
 
 ---
 
